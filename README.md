@@ -1,3 +1,5 @@
+# About the Program 
+
 This code is written in Python and uses the PyAutoGUI library to automate keyboard and mouse input. 
 The code inputs a limit and a message from the user, then types the message and presses the "enter" 
 key that many times.
