@@ -20,3 +20,17 @@ Here is a detailed explanation of the code:
 - The code uses a "while" loop that will run as long as "i" is less than "limit".
   Inside the loop, the code uses the "typewrite" function from the "pyautogui" library to type the message.
   The code then uses the "press" function from the "pyautogui" library to press the "enter" key.
+
+
+## How to run?
+
+To run this project use the following commands as shown.
+
+```python
+  cd spamtyper
+
+  pip install -r requirements.txt
+
+  python3 typer.py
+```
+
