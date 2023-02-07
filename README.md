@@ -31,7 +31,7 @@ To run this project use the following commands as shown.
 ```python
   cd spamtyper
 
-  pip install -r requirements.txt
+  pip3 install -r requirements.txt
 
   python3 typer.py
 ```
